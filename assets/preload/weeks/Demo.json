@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"onsentest",
+			"nikusa_onsen",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "nikusa",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "DEmo",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
