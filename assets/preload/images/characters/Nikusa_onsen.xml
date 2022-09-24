@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Nikusa_onsen.png">
+<SubTexture name="N Ide0000" x="1776" y="2699" width="503" height="630" frameX="-386" frameY="-20" frameWidth="1280" frameHeight="720" />
+<SubTexture name="N Ide0001" x="1556" y="671" width="642" height="668" frameX="-306" frameY="-23" frameWidth="1280" frameHeight="720" />
+<SubTexture name="N Ide0002" x="0" y="688" width="713" height="679" frameX="-275" frameY="-21" frameWidth="1280" frameHeight="720" />
+<SubTexture name="N Ide0003" x="774" y="1367" width="730" height="668" frameX="-264" frameY="-19" frameWidth="1280" frameHeight="720" />
+<SubTexture name="N Ide0004" x="763" y="2699" width="507" height="634" frameX="-385" frameY="-20" frameWidth="1280" frameHeight="720" />
+<SubTexture name="N Ide0005" x="1270" y="2699" width="506" height="631" frameX="-385" frameY="-20" frameWidth="1280" frameHeight="720" />
+<SubTexture name="N D0000" x="2962" y="0" width="595" height="654" frameX="-384" frameY="-18" frameWidth="1280" frameHeight="720" />
+<SubTexture name="N D0001" x="2798" y="2699" width="735" height="624" frameX="-319" frameY="-61" frameWidth="1280" frameHeight="720" />
+<SubTexture name="N D0002" x="0" y="2699" width="763" height="637" frameX="-312" frameY="-56" frameWidth="1280" frameHeight="720" />
+<SubTexture name="N D0003" x="0" y="1367" width="774" height="670" frameX="-308" frameY="-32" frameWidth="1280" frameHeight="720" />
+<SubTexture name="N D0004" x="0" y="3336" width="558" height="616" frameX="-391" frameY="-41" frameWidth="1280" frameHeight="720" />
+<SubTexture name="N L0000" x="3557" y="0" width="517" height="624" frameX="-387" frameY="-27" frameWidth="1280" frameHeight="720" />
+<SubTexture name="N L0001" x="2962" y="1302" width="563" height="642" frameX="-319" frameY="-20" frameWidth="1280" frameHeight="720" />
+<SubTexture name="N L0002" x="1556" y="0" width="664" height="671" frameX="-223" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="N L0003" x="2220" y="1327" width="728" height="662" frameX="-155" frameY="-14" frameWidth="1280" frameHeight="720" />
+<SubTexture name="N L0004" x="2220" y="0" width="742" height="664" frameX="-145" frameY="-23" frameWidth="1280" frameHeight="720" />
+<SubTexture name="N L0005" x="2279" y="2699" width="519" height="629" frameX="-373" frameY="-22" frameWidth="1280" frameHeight="720" />
+<SubTexture name="N R0000" x="818" y="2037" width="582" height="660" frameX="-380" frameY="-24" frameWidth="1280" frameHeight="720" />
+<SubTexture name="N R0001" x="1504" y="1367" width="632" height="666" frameX="-364" frameY="-29" frameWidth="1280" frameHeight="720" />
+<SubTexture name="N R0002" x="713" y="688" width="723" height="673" frameX="-415" frameY="-29" frameWidth="1280" frameHeight="720" />
+<SubTexture name="N R0003" x="791" y="0" width="765" height="686" frameX="-423" frameY="-26" frameWidth="1280" frameHeight="720" />
+<SubTexture name="N R0004" x="0" y="0" width="791" height="688" frameX="-400" frameY="-27" frameWidth="1280" frameHeight="720" />
+<SubTexture name="N R0005" x="2220" y="664" width="583" height="663" frameX="-386" frameY="-24" frameWidth="1280" frameHeight="720" />
+<SubTexture name="N U0000" x="2962" y="654" width="490" height="648" frameX="-390" frameY="-3" frameWidth="1280" frameHeight="720" />
+<SubTexture name="N U0001" x="1400" y="2037" width="601" height="660" frameX="-334" frameY="-3" frameWidth="1280" frameHeight="720" />
+<SubTexture name="N U0002" x="0" y="2037" width="818" height="662" frameX="-249" frameY="-7" frameWidth="1280" frameHeight="720" />
+<SubTexture name="N U0003" x="2001" y="2037" width="837" height="657" frameX="-241" frameY="-15" frameWidth="1280" frameHeight="720" />
+<SubTexture name="N U0004" x="2962" y="1944" width="517" height="636" frameX="-375" frameY="-20" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>
